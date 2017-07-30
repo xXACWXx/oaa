@@ -219,6 +219,7 @@
     "item"                                                "item_diffusal_blade"
     "item"                                                "item_desolator"
     "item"                                                "item_heavens_halberd"
+    "item"                                                "item_manta_style"
 
     "item"                                                "item_sange_and_yasha"
     "item"                                                "item_skadi"
